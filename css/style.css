@@ -16,7 +16,7 @@
     font-weight: 700;
     color: #FF136F;
 }
-.but{
+.but {
     background-image: linear-gradient(to bottom, #ff5898 0%, #ff136f 100%);
     color: #ffffff;
     font-size: 17px;
@@ -24,7 +24,6 @@
     border-radius: 8px;
     margin-top: 15px;
     border: none;
-
 }
 .carousel-inner {
     border-radius: 6px;
