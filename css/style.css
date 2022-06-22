@@ -77,3 +77,25 @@
     padding: 25px 10px;
  }
  /* ===========shoes style end ========= */
+ .card{
+    border-radius: 10px;
+ }
+ #bag{
+    margin-top: 80px;
+ }
+
+ #bag .but{
+    margin-top: 0px;
+ }
+ #bag .card{
+    border: none;
+    -webkit-box-shadow: 15px 14px 20px -7px rgba(0,0,0,0.35);
+    -moz-box-shadow: 15px 14px 20px -7px rgba(0,0,0,0.35);
+    box-shadow: 15px 14px 20px -7px rgba(0,0,0,0.35);
+    padding: 25px 10px;
+ }
+ #bag .card-footer{
+    border: none;
+    background: none;
+ }
+ /* ===========shoes style end ========= */
