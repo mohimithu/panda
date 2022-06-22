@@ -23,6 +23,7 @@
     padding: 8px 25px;
     border-radius: 8px;
     margin-top: 15px;
+    border: none;
 
 }
 .carousel-inner {
@@ -116,6 +117,6 @@
  footer{
     text-align: center;
     margin-top: 60px;
-    
+
 
  }
