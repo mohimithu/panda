@@ -1,0 +1,28 @@
+#carsel{
+    margin-top: 80px;
+}
+.top{
+    background: #FEEAE9;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.carousel-item .details h2{
+    font-size: 40px;
+    font-weight: 700;
+}
+.carousel-item .details h3{
+    font-size: 32px;
+    font-weight: 700;
+    color: #FF136F;
+}
+.carousel-item .but{
+    background-image: linear-gradient(to bottom, #ff5898 0%, #ff136f 100%);
+    color: #ffffff;
+    font-size: 17px;
+    padding: 8px 25px;
+    border-radius: 8px;
+    margin-top: 15px;
+
+}
+
