@@ -38,7 +38,7 @@
   }
   .cat1, .cat2, .cat3{
     padding: 10px 30px;
-    border-radius: 10px;
+    border-radius: 20px;
     color: #ffffff;
   }
   
@@ -78,7 +78,7 @@
  }
  /* ===========shoes style end ========= */
  .card{
-    border-radius: 10px;
+    border-radius: 20px;
  }
  #bag{
     margin-top: 80px;
@@ -99,3 +99,23 @@
     background: none;
  }
  /* ===========shoes style end ========= */
+ #subcribe{
+    margin-top: 80px;    
+ }
+
+.subcribe{
+    background: #FEEAE9;
+    height: 300px !important;
+   border-radius: 20px;
+ }
+ .subcribe p{
+    color: #707070;
+ }
+ /* ===========subcribe style end ========= */
+
+ footer{
+    text-align: center;
+    margin-top: 60px;
+    
+
+ }
