@@ -25,4 +25,31 @@
     margin-top: 15px;
 
 }
+.carousel-inner {
+    border-radius: 6px;
+  }
+
+
+
+  /* ===========carosel style end ========= */
+
+  #catogori{
+    margin-top: 80px;
+  }
+  .cat1{
+    background: #FF9C35;
+    padding: 10px 30px;
+    border-radius: 10px;
+  }
+  .cat2{
+    background: #FF589B;
+    padding: 10px 30px;
+    border-radius: 10px;
+  }
+  .cat3{
+    background: #4289FF;
+    padding: 10px 30px;
+    border-radius: 10px;
+    
+  }
 
