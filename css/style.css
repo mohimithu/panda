@@ -16,7 +16,7 @@
     font-weight: 700;
     color: #FF136F;
 }
-.carousel-item .but{
+.but{
     background-image: linear-gradient(to bottom, #ff5898 0%, #ff136f 100%);
     color: #ffffff;
     font-size: 17px;
@@ -62,3 +62,18 @@
     width: 150px;
   }
 
+ /* ===========catagoris style end ========= */
+
+
+ #shoes{
+    margin-top: 80px;
+ }
+
+ #shoes .card{
+    border: none;
+    -webkit-box-shadow: 15px 14px 20px -7px rgba(0,0,0,0.35);
+    -moz-box-shadow: 15px 14px 20px -7px rgba(0,0,0,0.35);
+    box-shadow: 15px 14px 20px -7px rgba(0,0,0,0.35);
+    padding: 25px 10px;
+ }
+ /* ===========shoes style end ========= */
